@@ -6,13 +6,12 @@ Add the following path to dependencies in your manifest to install through [UPM]
     
 ```json
 "dependencies": {
-    "com.seblague.pathcreator": "https://github.com/hannesdelbeke/Path-Creator.git?path=/Path%20Creator%20Project/Assets/PathCreator/Core",  
+    "com.seblague.pathcreator": "https://github.com/hannesdelbeke/Path-Creator.git?path=/Assets/PathCreator/Core",  
 }
 ```
-
 repo is: `https://github.com/hannesdelbeke/Path-Creator.git`
 
-sub directory is: `Path%20Creator%20Project/Assets/PathCreator/Core`
+sub directory is: `Assets/PathCreator/Core`
 
 ## Repo setup 
 
